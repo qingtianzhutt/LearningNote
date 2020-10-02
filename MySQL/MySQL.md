@@ -116,7 +116,7 @@ mysql> show variables like '%char%';
 default-character-set=utf8
 
 [mysql]
-default-character-set=utf8
+default-character-set=utf8三大范式方法
 
 [mysqld]
 # 设置client连接mysql时的字符集,防止乱码
